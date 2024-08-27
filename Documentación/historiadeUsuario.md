@@ -34,7 +34,7 @@
 
 **HISTORIAS DE USUARIO 4: Ventas:**
 
-Como usuario del sistema, quiero poder registrar y gestionar las ventas realizadas para llevar un control detallado de los productos vendidos y los precios, y así poder acceder fácilmente a un historial de ventas.
+**Descripción:** Como usuario del sistema, quiero poder registrar y gestionar las ventas realizadas para llevar un control detallado de los productos vendidos y los precios, y así poder acceder fácilmente a un historial de ventas.
 
 **Criterios de Aceptación:**
 - El usuario debe poder registrar las ventas realizadas, ya sea en relación con un encargo específico o cualquier otra venta de productos, incluyendo detalles como los productos vendidos, cantidades y precios.
