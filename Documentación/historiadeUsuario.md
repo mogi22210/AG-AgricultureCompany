@@ -22,5 +22,21 @@
 **HISTORIAS DE USUARIO 3: Distribución:**
 
 
+**Descripción:** Como usuario del sistema, quiero poder gestionar la distribución de productos de manera eficiente, para asegurar que los productos lleguen a los puntos de venta correctos en la fecha y cantidad adecuada.
 
+**Criterios de Aceptación:**
+- El usuario debe poder registrar los vehículos utilizados para el transporte de productos, incluyendo detalles como la capacidad de carga de cada vehículo.
+- El usuario poder registrar los puntos de venta a los que se distribuirán los productos.
+- El usuario debe poder asignar encargos, especificando la fecha de envío, la cantidad de producto, los vehículos a utilizar, y los puntos de venta de destino.
+- El usuario debe tener acceso a la información asignada a cada encargo, permitiendo verificar y gestionar los detalles de la distribución.
+
+
+
+**HISTORIAS DE USUARIO 4: Ventas:**
+
+Como usuario del sistema, quiero poder registrar y gestionar las ventas realizadas para llevar un control detallado de los productos vendidos y los precios, y así poder acceder fácilmente a un historial de ventas.
+
+**Criterios de Aceptación:**
+- El usuario debe poder registrar las ventas realizadas, ya sea en relación con un encargo específico o cualquier otra venta de productos, incluyendo detalles como los productos vendidos, cantidades y precios.
+- El usuario debe poder visualizar el historial de todas las ventas realizadas y poder utilizar filtros de búsqueda.
 
